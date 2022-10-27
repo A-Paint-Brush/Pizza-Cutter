@@ -2,7 +2,7 @@
 
 This is a small project I made while taking a break from the development of my _Flappy Bird_ clone. I guess it might help with teaching kids fractions?
 
-![Program Preview](https://user-images.githubusercontent.com/96622265/198327466-f24e92c3-8791-48d2-add4-4bf841dd633b.png)
+![Program Preview](https://user-images.githubusercontent.com/96622265/198341277-259408cb-762b-4da6-b12e-d0132ebdd3f5.gif)
 
 ## Installation
 
